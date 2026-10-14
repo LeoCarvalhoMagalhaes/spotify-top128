@@ -192,7 +192,7 @@ O player funciona abrindo o `index.html` direto ou num servidor local, desde que
 | 111 | 112 | Levitating | Dua Lipa | 2.692.082.840 |
 | 112 | 113 | Lose Control | Teddy Swims | 2.687.695.770 |
 | 113 | 114 | SICKO MODE | Travis Scott com Drake | 2.682.447.558 |
-| 114 | 115 | Gangsta's Paradise | Coolio com L.V. | 2.675.016.644 |
+| 114 | 115 | Gangsta's Paradise | Coolio com L.V. | 2.675.988.237 |
 | 115 | 116 | APT. | ROSÉ com Bruno Mars | 2.668.049.028 |
 | 116 | 117 | Attention | Charlie Puth | 2.654.818.608 |
 | 117 | 118 | Stitches | Shawn Mendes | 2.650.868.602 |
