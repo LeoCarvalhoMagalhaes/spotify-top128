@@ -111,7 +111,7 @@ O player funciona abrindo o `index.html` direto ou num servidor local, desde que
 | 30 | 30 | Locked out of Heaven | Bruno Mars | 3.550.652.229 |
 | 31 | 31 | Can't Hold Us | Macklemore & Ryan Lewis com Ray Dalton | 3.550.219.065 |
 | 32 | 32 | Mr. Brightside | The Killers | 3.532.070.639 |
-| 33 | 33 | Dance Monkey | Tones And I | 3.528.105.012 |
+| 33 | 33 | Dance Monkey | Tones And I | 3.528.634.984 |
 | 34 | 34 | Just The Way You Are | Bruno Mars | 3.519.482.666 |
 | 35 | 35 | Cruel Summer | Taylor Swift | 3.510.186.477 |
 | 36 | 36 | rockstar | Post Malone com 21 Savage | 3.468.587.098 |
@@ -167,7 +167,7 @@ O player funciona abrindo o `index.html` direto ou num servidor local, desde que
 | 86 | 87 | Numb | Linkin Park | 2.950.645.380 |
 | 87 | 88 | 7 rings | Ariana Grande | 2.946.617.284 |
 | 88 | 89 | Sweet Child O' Mine | Guns N' Roses | 2.920.538.079 |
-| 89 | 90 | Let Her Go | Passenger | 2.918.746.439 |
+| 89 | 90 | Let Her Go | Passenger | 2.919.377.286 |
 | 90 | 91 | Kill Bill | SZA | 2.915.543.024 |
 | 91 | 92 | Payphone | Maroon 5 com Wiz Khalifa | 2.901.294.806 |
 | 92 | 93 | One Of The Girls | The Weeknd com JENNIE, Lily-Rose Depp | 2.894.214.448 |
@@ -200,7 +200,7 @@ O player funciona abrindo o `index.html` direto ou num servidor local, desde que
 | 119 | 120 | Lush Life | Zara Larsson | 2.647.064.484 |
 | 120 | 121 | Me Rehúso | Danny Ocean | 2.643.945.376 |
 | 121 | 122 | The Less I Know The Better | Tame Impala | 2.641.620.679 |
-| 122 | 123 | 7 Years | Lukas Graham | 2.639.751.520 |
+| 122 | 123 | 7 Years | Lukas Graham | 2.640.556.548 |
 | 123 | 124 | Blank Space | Taylor Swift | 2.632.942.801 |
 | 124 | 125 | Pumped Up Kicks | Foster The People | 2.628.980.422 |
 | 125 | 126 | Somebody That I Used To Know | Gotye com Kimbra | 2.626.195.098 |
