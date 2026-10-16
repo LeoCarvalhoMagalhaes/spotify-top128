@@ -2,13 +2,13 @@
 window.SPOTIFY_TOP128_DATA = {
   "meta": {
     "schemaVersion": 1,
-    "dataVersion": "kworb-2026-10-15",
+    "dataVersion": "kworb-2026-10-16",
     "title": "Spotify Top 128 — The Ultimate Music Bracket",
-    "referenceDate": "2026-10-15",
+    "referenceDate": "2026-10-16",
     "source": {
       "name": "Kworb — Spotify Most Streamed Songs of All Time",
       "url": "https://kworb.net/spotify/songs.html",
-      "consultedAt": "2026-10-15",
+      "consultedAt": "2026-10-16",
       "note": "Streams acumulados por faixa no Spotify, atualizados diariamente pelo Kworb."
     },
     "crossCheck": {
@@ -24,7 +24,7 @@ window.SPOTIFY_TOP128_DATA = {
         "rank": 73,
         "artist": "Dream Supplier",
         "title": "Clean Baby Sleep White Noise (Loopable)",
-        "streams": 3085814486,
+        "streams": 3087218335,
         "reason": "Não é uma música (ruído/sons para dormir)."
       }
     ],
@@ -38,8 +38,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Blinding Lights",
       "artist": "The Weeknd",
       "features": [],
-      "streams": 5634272076,
-      "dailyStreams": 1540104,
+      "streams": 5635836005,
+      "dailyStreams": 1563929,
       "spotifyId": "3iRwigDWGH0z3R3wFmYmBW",
       "creditsSource": "wikipedia"
     },
@@ -50,8 +50,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Shape of You",
       "artist": "Ed Sheeran",
       "features": [],
-      "streams": 5142072447,
-      "dailyStreams": 1462142,
+      "streams": 5143580532,
+      "dailyStreams": 1508085,
       "spotifyId": "7qiZfU4dY1lWllzX7mPBI3",
       "creditsSource": "wikipedia"
     },
@@ -62,8 +62,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Sweater Weather",
       "artist": "The Neighbourhood",
       "features": [],
-      "streams": 4951667400,
-      "dailyStreams": 2721071,
+      "streams": 4954437856,
+      "dailyStreams": 2770456,
       "spotifyId": "00xYOITpx6SEi1ntfdlA39",
       "creditsSource": "wikipedia"
     },
@@ -76,8 +76,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "Daft Punk"
       ],
-      "streams": 4810802519,
-      "dailyStreams": 1948220,
+      "streams": 4812768261,
+      "dailyStreams": 1965742,
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
       "creditsSource": "wikipedia"
     },
@@ -88,8 +88,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "As It Was",
       "artist": "Harry Styles",
       "features": [],
-      "streams": 4670723476,
-      "dailyStreams": 1494381,
+      "streams": 4672239887,
+      "dailyStreams": 1516411,
       "spotifyId": "4Dvkj6JhhA12EX05fT7y2e",
       "creditsSource": "wikipedia"
     },
@@ -103,8 +103,8 @@ window.SPOTIFY_TOP128_DATA = {
         "Wizkid",
         "Kyla"
       ],
-      "streams": 4515771636,
-      "dailyStreams": 1620011,
+      "streams": 4517454235,
+      "dailyStreams": 1682599,
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
       "creditsSource": "wikipedia"
     },
@@ -117,8 +117,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "Swae Lee"
       ],
-      "streams": 4512396718,
-      "dailyStreams": 1670757,
+      "streams": 4514076659,
+      "dailyStreams": 1679941,
       "spotifyId": "0RiRZpuVRbi7oqRdSMwhQY",
       "creditsSource": "wikipedia"
     },
@@ -129,8 +129,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Someone You Loved",
       "artist": "Lewis Capaldi",
       "features": [],
-      "streams": 4467636640,
-      "dailyStreams": 1036572,
+      "streams": 4468686583,
+      "dailyStreams": 1049943,
       "spotifyId": "0vGWBo1b6KyE9klUQfxqwJ",
       "creditsSource": "wikipedia"
     },
@@ -141,8 +141,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Perfect",
       "artist": "Ed Sheeran",
       "features": [],
-      "streams": 4147374187,
-      "dailyStreams": 1199048,
+      "streams": 4148597239,
+      "dailyStreams": 1223052,
       "spotifyId": "0tgVpDi06FyKpA1z0VMD4v",
       "creditsSource": "wikipedia"
     },
@@ -155,8 +155,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "Justin Bieber"
       ],
-      "streams": 4106377944,
-      "dailyStreams": 1005690,
+      "streams": 4107405524,
+      "dailyStreams": 1027580,
       "spotifyId": "567e29TDzLwZwfDuEpGTwo",
       "creditsSource": "wikipedia"
     },
@@ -169,8 +169,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "Bruno Mars"
       ],
-      "streams": 4063676516,
-      "dailyStreams": 2835247,
+      "streams": 4066572289,
+      "dailyStreams": 2895773,
       "spotifyId": "7so0lgd0zP2Sbgs2d7a1SZ",
       "creditsSource": "wikipedia"
     },
@@ -181,8 +181,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "I Wanna Be Yours",
       "artist": "Arctic Monkeys",
       "features": [],
-      "streams": 4053713406,
-      "dailyStreams": 1994474,
+      "streams": 4055705547,
+      "dailyStreams": 1992141,
       "spotifyId": "5XeFesFbtLpXzIVDNQP22n",
       "creditsSource": "wikipedia"
     },
@@ -193,8 +193,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "BIRDS OF A FEATHER",
       "artist": "Billie Eilish",
       "features": [],
-      "streams": 4041674004,
-      "dailyStreams": 2225443,
+      "streams": 4043948049,
+      "dailyStreams": 2274045,
       "spotifyId": "6dOtVTDdiauQNBQEDOtlAB",
       "creditsSource": "wikipedia"
     },
@@ -205,8 +205,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Yellow",
       "artist": "Coldplay",
       "features": [],
-      "streams": 4033817013,
-      "dailyStreams": 1919954,
+      "streams": 4035744546,
+      "dailyStreams": 1927533,
       "spotifyId": "3AJwUDP919kvQ9QcozQPxg",
       "creditsSource": "wikipedia"
     },
@@ -217,8 +217,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Believer",
       "artist": "Imagine Dragons",
       "features": [],
-      "streams": 3987894187,
-      "dailyStreams": 897624,
+      "streams": 3988820376,
+      "dailyStreams": 926189,
       "spotifyId": "0pqnGHJpmpxLKifKRmU6WP",
       "creditsSource": "wikipedia"
     },
@@ -229,8 +229,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "The Night We Met",
       "artist": "Lord Huron",
       "features": [],
-      "streams": 3983905217,
-      "dailyStreams": 1905959,
+      "streams": 3985830032,
+      "dailyStreams": 1924815,
       "spotifyId": "3hRV0jL3vUpRrcy398teAU",
       "creditsSource": "wikipedia"
     },
@@ -241,8 +241,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Riptide",
       "artist": "Vance Joy",
       "features": [],
-      "streams": 3962190800,
-      "dailyStreams": 1833951,
+      "streams": 3964051017,
+      "dailyStreams": 1860217,
       "spotifyId": "2uXlHCUbq9OMUwx3hrk06o",
       "creditsSource": "wikipedia"
     },
@@ -253,8 +253,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Heat Waves",
       "artist": "Glass Animals",
       "features": [],
-      "streams": 3962010894,
-      "dailyStreams": 1132205,
+      "streams": 3963173571,
+      "dailyStreams": 1162677,
       "spotifyId": "4TPrUBWVY8y0X5RCh4QDfJ",
       "creditsSource": "wikipedia"
     },
@@ -267,8 +267,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "Halsey"
       ],
-      "streams": 3918133069,
-      "dailyStreams": 1213575,
+      "streams": 3919365634,
+      "dailyStreams": 1232565,
       "spotifyId": "7BKLCZ1jbUBVqRi2FVlTVw",
       "creditsSource": "wikipedia"
     },
@@ -281,8 +281,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "Khalid"
       ],
-      "streams": 3907033025,
-      "dailyStreams": 1044025,
+      "streams": 3908100473,
+      "dailyStreams": 1067448,
       "spotifyId": "0u2P5u6lvoDfwTYjAADbn4",
       "creditsSource": "wikipedia"
     },
@@ -293,8 +293,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Every Breath You Take",
       "artist": "The Police",
       "features": [],
-      "streams": 3815000245,
-      "dailyStreams": 1929183,
+      "streams": 3816974519,
+      "dailyStreams": 1974274,
       "spotifyId": "1JSTJqkT5qHq8MDJnJbRE1",
       "creditsSource": "wikipedia"
     },
@@ -307,8 +307,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "Coldplay"
       ],
-      "streams": 3805736871,
-      "dailyStreams": 1001932,
+      "streams": 3806757025,
+      "dailyStreams": 1020154,
       "spotifyId": "6RUKPb4LETWmmr3iAEQktW",
       "creditsSource": "wikipedia"
     },
@@ -319,8 +319,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Iris",
       "artist": "The Goo Goo Dolls",
       "features": [],
-      "streams": 3785045450,
-      "dailyStreams": 2692312,
+      "streams": 3787700696,
+      "dailyStreams": 2655246,
       "spotifyId": "6Qyc6fS4DsZjB2mRW9DsQs",
       "creditsSource": "wikipedia"
     },
@@ -331,8 +331,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Another Love",
       "artist": "Tom Odell",
       "features": [],
-      "streams": 3733143728,
-      "dailyStreams": 1248763,
+      "streams": 3734401062,
+      "dailyStreams": 1257334,
       "spotifyId": "3JvKfv6T31zO0ini8iNItO",
       "creditsSource": "wikipedia"
     },
@@ -343,8 +343,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Say You Won't Let Go",
       "artist": "James Arthur",
       "features": [],
-      "streams": 3718803583,
-      "dailyStreams": 790247,
+      "streams": 3719594171,
+      "dailyStreams": 790588,
       "spotifyId": "0p6RzKrGeXzyYYd2RZPKd8",
       "creditsSource": "wikipedia"
     },
@@ -355,8 +355,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Counting Stars",
       "artist": "OneRepublic",
       "features": [],
-      "streams": 3686066224,
-      "dailyStreams": 1405935,
+      "streams": 3687525273,
+      "dailyStreams": 1459049,
       "spotifyId": "2tpWsVSb9UEmDRxAl1zhX1",
       "creditsSource": "wikipedia"
     },
@@ -367,8 +367,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Take Me To Church",
       "artist": "Hozier",
       "features": [],
-      "streams": 3619638740,
-      "dailyStreams": 1092368,
+      "streams": 3620752572,
+      "dailyStreams": 1113832,
       "spotifyId": "1CS7Sd1u5tWkstBhpssyjP",
       "creditsSource": "wikipedia"
     },
@@ -379,8 +379,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Photograph",
       "artist": "Ed Sheeran",
       "features": [],
-      "streams": 3582978145,
-      "dailyStreams": 1042830,
+      "streams": 3584061226,
+      "dailyStreams": 1083081,
       "spotifyId": "3FSPaBp49Clqq2p4zc9dbA",
       "creditsSource": "wikipedia"
     },
@@ -391,8 +391,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "features": [],
-      "streams": 3565181181,
-      "dailyStreams": 1445555,
+      "streams": 3566627284,
+      "dailyStreams": 1446103,
       "spotifyId": "2LnmFzNEQ2N79WVCWQzKwz",
       "creditsSource": "wikipedia"
     },
@@ -403,8 +403,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Locked out of Heaven",
       "artist": "Bruno Mars",
       "features": [],
-      "streams": 3552386138,
-      "dailyStreams": 1733909,
+      "streams": 3554182778,
+      "dailyStreams": 1796640,
       "spotifyId": "3w3y8KPTfNeOKPiqUTakBh",
       "creditsSource": "wikipedia"
     },
@@ -417,8 +417,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "Ray Dalton"
       ],
-      "streams": 3551751988,
-      "dailyStreams": 1532923,
+      "streams": 3553274665,
+      "dailyStreams": 1522677,
       "spotifyId": "22skzmqfdWrjJylampe0kt",
       "creditsSource": "wikipedia"
     },
@@ -429,8 +429,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Mr. Brightside",
       "artist": "The Killers",
       "features": [],
-      "streams": 3534201327,
-      "dailyStreams": 2130688,
+      "streams": 3536372453,
+      "dailyStreams": 2171126,
       "spotifyId": "2RvbnvBX3XKkHy8daq3PUT",
       "creditsSource": "wikipedia"
     },
@@ -441,8 +441,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Dance Monkey",
       "artist": "Tones And I",
       "features": [],
-      "streams": 3528634984,
-      "dailyStreams": 529972,
+      "streams": 3529757254,
+      "dailyStreams": 565570,
       "spotifyId": "2N8m6CYs74qQO4mjVcXO30",
       "creditsSource": "wikipedia"
     },
@@ -453,8 +453,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Just The Way You Are",
       "artist": "Bruno Mars",
       "features": [],
-      "streams": 3520993105,
-      "dailyStreams": 1510439,
+      "streams": 3522525855,
+      "dailyStreams": 1532750,
       "spotifyId": "47Slg6LuqLaX0VodpSCvPt",
       "creditsSource": "wikipedia"
     },
@@ -465,8 +465,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Cruel Summer",
       "artist": "Taylor Swift",
       "features": [],
-      "streams": 3511031292,
-      "dailyStreams": 844815,
+      "streams": 3511904106,
+      "dailyStreams": 872814,
       "spotifyId": "1BxfuPKGuaTgP7aM0Bbdwr",
       "creditsSource": "wikipedia"
     },
@@ -479,8 +479,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "21 Savage"
       ],
-      "streams": 3469156125,
-      "dailyStreams": 569027,
+      "streams": 3469742415,
+      "dailyStreams": 586290,
       "spotifyId": "0e7ipj03S05BNilyu5bRzt",
       "creditsSource": "wikipedia"
     },
@@ -491,8 +491,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Die For You",
       "artist": "The Weeknd",
       "features": [],
-      "streams": 3458361717,
-      "dailyStreams": 1509099,
+      "streams": 3459888562,
+      "dailyStreams": 1526845,
       "spotifyId": "2Ch7LmS7r2Gy2kc64wv3Bz",
       "creditsSource": "wikipedia"
     },
@@ -505,8 +505,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "Camila Cabello"
       ],
-      "streams": 3445588434,
-      "dailyStreams": 868530,
+      "streams": 3446482242,
+      "dailyStreams": 893808,
       "spotifyId": "6v3KW9xbzN5yKLt9YKDYA2",
       "creditsSource": "wikipedia"
     },
@@ -517,8 +517,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "That's What I Like",
       "artist": "Bruno Mars",
       "features": [],
-      "streams": 3434904788,
-      "dailyStreams": 1349201,
+      "streams": 3436285493,
+      "dailyStreams": 1380705,
       "spotifyId": "0KKkJNfGyhkQ5aFogxQAPU",
       "creditsSource": "wikipedia"
     },
@@ -529,8 +529,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Watermelon Sugar",
       "artist": "Harry Styles",
       "features": [],
-      "streams": 3419882754,
-      "dailyStreams": 822262,
+      "streams": 3420719843,
+      "dailyStreams": 837089,
       "spotifyId": "6UelLqGlWMcVH1E5c4H7lY",
       "creditsSource": "wikipedia"
     },
@@ -541,8 +541,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "In the End",
       "artist": "Linkin Park",
       "features": [],
-      "streams": 3415878669,
-      "dailyStreams": 1654707,
+      "streams": 3417556020,
+      "dailyStreams": 1677351,
       "spotifyId": "60a0Rd6pjrkxjPbaKzXjfq",
       "creditsSource": "wikipedia"
     },
@@ -553,8 +553,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Love Yourself",
       "artist": "Justin Bieber",
       "features": [],
-      "streams": 3392632614,
-      "dailyStreams": 1008396,
+      "streams": 3393676706,
+      "dailyStreams": 1044092,
       "spotifyId": "50kpGaPAhYJ3sGmk6vplg0",
       "creditsSource": "wikipedia"
     },
@@ -565,8 +565,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Don’t Start Now",
       "artist": "Dua Lipa",
       "features": [],
-      "streams": 3343679724,
-      "dailyStreams": 725919,
+      "streams": 3344426817,
+      "dailyStreams": 747093,
       "spotifyId": "2ThsBNtjuUEERqcpXQEoYR",
       "creditsSource": "wikipedia"
     },
@@ -577,8 +577,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "When I Was Your Man",
       "artist": "Bruno Mars",
       "features": [],
-      "streams": 3329538065,
-      "dailyStreams": 1223425,
+      "streams": 3330735817,
+      "dailyStreams": 1197752,
       "spotifyId": "0nJW01T7XtvILxQgC5J7Wh",
       "creditsSource": "wikipedia"
     },
@@ -589,8 +589,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "features": [],
-      "streams": 3307582012,
-      "dailyStreams": 2206925,
+      "streams": 3309810190,
+      "dailyStreams": 2228178,
       "spotifyId": "6vR5u5b8JeRESx5nZaIWx6",
       "creditsSource": "wikipedia"
     },
@@ -601,8 +601,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Circles",
       "artist": "Post Malone",
       "features": [],
-      "streams": 3306910202,
-      "dailyStreams": 1011028,
+      "streams": 3307938182,
+      "dailyStreams": 1027980,
       "spotifyId": "21jGcNKet2qwijlDFuPiPb",
       "creditsSource": "wikipedia"
     },
@@ -613,8 +613,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Bohemian Rhapsody",
       "artist": "Queen",
       "features": [],
-      "streams": 3300750144,
-      "dailyStreams": 1023930,
+      "streams": 3301801158,
+      "dailyStreams": 1051014,
       "spotifyId": "4u7EnebtmKWzUH433cf5Qv",
       "creditsSource": "wikipedia"
     },
@@ -625,8 +625,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Without Me",
       "artist": "Eminem",
       "features": [],
-      "streams": 3264316633,
-      "dailyStreams": 1161597,
+      "streams": 3265511592,
+      "dailyStreams": 1194959,
       "spotifyId": "2RsTjad1nVUGrQmSoL1m8Y",
       "creditsSource": "wikipedia"
     },
@@ -639,8 +639,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "Justin Bieber"
       ],
-      "streams": 3261107214,
-      "dailyStreams": 1268579,
+      "streams": 3262415335,
+      "dailyStreams": 1308121,
       "spotifyId": "0lYBSQXN6rCTvUZvg9S0lU",
       "creditsSource": "wikipedia"
     },
@@ -651,8 +651,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Wake Me Up",
       "artist": "Avicii",
       "features": [],
-      "streams": 3260585963,
-      "dailyStreams": 974096,
+      "streams": 3261577578,
+      "dailyStreams": 991615,
       "spotifyId": "0nrRP2bk19rLc0orkWPQk2",
       "creditsSource": "wikipedia"
     },
@@ -665,8 +665,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "Kendrick Lamar"
       ],
-      "streams": 3246347007,
-      "dailyStreams": 787722,
+      "streams": 3247156718,
+      "dailyStreams": 809711,
       "spotifyId": "6gBFPUFcJLzWGx4lenP6h2",
       "creditsSource": "wikipedia"
     },
@@ -677,8 +677,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Thinking out Loud",
       "artist": "Ed Sheeran",
       "features": [],
-      "streams": 3243033838,
-      "dailyStreams": 825475,
+      "streams": 3243884451,
+      "dailyStreams": 850613,
       "spotifyId": "0k4nrrCsMr0Tao5WvQ8Osq",
       "creditsSource": "wikipedia"
     },
@@ -689,8 +689,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Lucid Dreams",
       "artist": "Juice WRLD",
       "features": [],
-      "streams": 3220631425,
-      "dailyStreams": 611426,
+      "streams": 3221254336,
+      "dailyStreams": 622911,
       "spotifyId": "285pBltuF7vW8TeWk8hdRR",
       "creditsSource": "wikipedia"
     },
@@ -701,8 +701,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Espresso",
       "artist": "Sabrina Carpenter",
       "features": [],
-      "streams": 3217284378,
-      "dailyStreams": 1214237,
+      "streams": 3218536262,
+      "dailyStreams": 1251884,
       "spotifyId": "2LU2CYKUZUc1iAErxJb1dK",
       "creditsSource": "wikipedia"
     },
@@ -713,8 +713,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "All Of Me",
       "artist": "John Legend",
       "features": [],
-      "streams": 3214677988,
-      "dailyStreams": 878447,
+      "streams": 3215573558,
+      "dailyStreams": 895570,
       "spotifyId": "3U4isOIWM3VvDubwSI3y7a",
       "creditsSource": "wikipedia"
     },
@@ -727,8 +727,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "SZA"
       ],
-      "streams": 3212005184,
-      "dailyStreams": 1425428,
+      "streams": 3213400055,
+      "dailyStreams": 1410149,
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
       "creditsSource": "wikipedia"
     },
@@ -739,8 +739,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Beautiful Things",
       "artist": "Benson Boone",
       "features": [],
-      "streams": 3203847639,
-      "dailyStreams": 1651565,
+      "streams": 3205497029,
+      "dailyStreams": 1649390,
       "spotifyId": "3xkHsmpQCBMytMJNiDf3Ii",
       "creditsSource": "wikipedia"
     },
@@ -751,8 +751,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "God's Plan",
       "artist": "Drake",
       "features": [],
-      "streams": 3201571514,
-      "dailyStreams": 916276,
+      "streams": 3202507207,
+      "dailyStreams": 935693,
       "spotifyId": "6DCZcSspjsKoFjzjrWoCdn",
       "creditsSource": "wikipedia"
     },
@@ -763,8 +763,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Stressed Out",
       "artist": "Twenty One Pilots",
       "features": [],
-      "streams": 3199509118,
-      "dailyStreams": 1096545,
+      "streams": 3200647876,
+      "dailyStreams": 1138758,
       "spotifyId": "3CRDbSIZ4r5MsZ0YwxuEkn",
       "creditsSource": "wikipedia"
     },
@@ -777,8 +777,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "Bradley Cooper"
       ],
-      "streams": 3191671366,
-      "dailyStreams": 737730,
+      "streams": 3192433806,
+      "dailyStreams": 762440,
       "spotifyId": "6QfS2wq5sSC1xAJCQsTSlj",
       "creditsSource": "wikipedia"
     },
@@ -786,24 +786,24 @@ window.SPOTIFY_TOP128_DATA = {
       "id": "kw-061",
       "rank": 61,
       "seed": 61,
-      "title": "Creep",
-      "artist": "Radiohead",
+      "title": "Treat You Better",
+      "artist": "Shawn Mendes",
       "features": [],
-      "streams": 3189355292,
-      "dailyStreams": 1976231,
-      "spotifyId": "70LcF31zb1H0PyJoS1Sx1r",
+      "streams": 3191538680,
+      "dailyStreams": 2430108,
+      "spotifyId": "3QGsuHI8jO1Rx4JWLUh9jd",
       "creditsSource": "wikipedia"
     },
     {
       "id": "kw-062",
       "rank": 62,
       "seed": 62,
-      "title": "Treat You Better",
-      "artist": "Shawn Mendes",
+      "title": "Creep",
+      "artist": "Radiohead",
       "features": [],
-      "streams": 3189108572,
-      "dailyStreams": 2370767,
-      "spotifyId": "3QGsuHI8jO1Rx4JWLUh9jd",
+      "streams": 3191359278,
+      "dailyStreams": 2003986,
+      "spotifyId": "70LcF31zb1H0PyJoS1Sx1r",
       "creditsSource": "wikipedia"
     },
     {
@@ -813,8 +813,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "The Hills",
       "artist": "The Weeknd",
       "features": [],
-      "streams": 3184866576,
-      "dailyStreams": 1133096,
+      "streams": 3186031228,
+      "dailyStreams": 1164652,
       "spotifyId": "7fBv7CLKzipRk6EC6TWHOB",
       "creditsSource": "wikipedia"
     },
@@ -825,8 +825,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Do I Wanna Know?",
       "artist": "Arctic Monkeys",
       "features": [],
-      "streams": 3173014486,
-      "dailyStreams": 1593457,
+      "streams": 3174584471,
+      "dailyStreams": 1569985,
       "spotifyId": "5FVd6KXrgO9B3JPmC8OPst",
       "creditsSource": "wikipedia"
     },
@@ -837,8 +837,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Demons",
       "artist": "Imagine Dragons",
       "features": [],
-      "streams": 3168432920,
-      "dailyStreams": 997473,
+      "streams": 3169429361,
+      "dailyStreams": 996441,
       "spotifyId": "5VC29kHMkzcaorzPKUqJbl",
       "creditsSource": "wikipedia"
     },
@@ -851,8 +851,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "Kali Uchis"
       ],
-      "streams": 3153616635,
-      "dailyStreams": 1395286,
+      "streams": 3155039493,
+      "dailyStreams": 1422858,
       "spotifyId": "7KA4W4McWYRpgf0fWsJZWB",
       "creditsSource": "wikipedia"
     },
@@ -863,8 +863,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Wonderwall",
       "artist": "Oasis",
       "features": [],
-      "streams": 3135663549,
-      "dailyStreams": 2151965,
+      "streams": 3137828240,
+      "dailyStreams": 2164691,
       "spotifyId": "5qqabIl2vWzo9ApSC317sa",
       "creditsSource": "wikipedia"
     },
@@ -875,8 +875,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Thunder",
       "artist": "Imagine Dragons",
       "features": [],
-      "streams": 3132543674,
-      "dailyStreams": 750152,
+      "streams": 3133312787,
+      "dailyStreams": 769113,
       "spotifyId": "1zB4vmk8tFRmM9UULNzbLB",
       "creditsSource": "wikipedia"
     },
@@ -887,8 +887,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Smells Like Teen Spirit",
       "artist": "Nirvana",
       "features": [],
-      "streams": 3130672195,
-      "dailyStreams": 1481010,
+      "streams": 3132178385,
+      "dailyStreams": 1506190,
       "spotifyId": "4CeeEOM32jQcH3eN9Q2dGj",
       "creditsSource": "wikipedia"
     },
@@ -901,8 +901,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "Latto"
       ],
-      "streams": 3115026919,
-      "dailyStreams": 1093977,
+      "streams": 3116240424,
+      "dailyStreams": 1213505,
       "spotifyId": "2HRgqmZQC0MC7GeNuDIXHN",
       "creditsSource": "wikipedia"
     },
@@ -913,8 +913,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Sorry",
       "artist": "Justin Bieber",
       "features": [],
-      "streams": 3107659766,
-      "dailyStreams": 992769,
+      "streams": 3108667243,
+      "dailyStreams": 1007477,
       "spotifyId": "1KtogTnUKQzEKdF0ymAfnf",
       "creditsSource": "wikipedia"
     },
@@ -927,8 +927,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "Swae Lee"
       ],
-      "streams": 3105730621,
-      "dailyStreams": 1378926,
+      "streams": 3107118588,
+      "dailyStreams": 1387967,
       "spotifyId": "3B54sVLJ402zGa6Xm4YGNe",
       "creditsSource": "wikipedia"
     },
@@ -939,8 +939,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "505",
       "artist": "Arctic Monkeys",
       "features": [],
-      "streams": 3080654684,
-      "dailyStreams": 1740180,
+      "streams": 3082399208,
+      "dailyStreams": 1744524,
       "spotifyId": "58ge6dfP91o9oXMzq3XkIS",
       "creditsSource": "wikipedia"
     },
@@ -951,8 +951,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "No Role Modelz",
       "artist": "J. Cole",
       "features": [],
-      "streams": 3067187281,
-      "dailyStreams": 1124427,
+      "streams": 3068333941,
+      "dailyStreams": 1146660,
       "spotifyId": "68Dni7IE4VyPkTOH9mRWHr",
       "creditsSource": "wikipedia"
     },
@@ -963,8 +963,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Lose Yourself",
       "artist": "Eminem",
       "features": [],
-      "streams": 3046381028,
-      "dailyStreams": 949599,
+      "streams": 3047359347,
+      "dailyStreams": 978319,
       "spotifyId": "1v7L65Lzy0j0vdpRjJewt1",
       "creditsSource": "wikipedia"
     },
@@ -975,8 +975,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "The Scientist",
       "artist": "Coldplay",
       "features": [],
-      "streams": 3032618158,
-      "dailyStreams": 1203618,
+      "streams": 3033825188,
+      "dailyStreams": 1207030,
       "spotifyId": "75JFxkI2RXiU7L9VXzMkle",
       "creditsSource": "wikipedia"
     },
@@ -987,8 +987,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Don't Stop Believin'",
       "artist": "Journey",
       "features": [],
-      "streams": 3028994165,
-      "dailyStreams": 1298531,
+      "streams": 3030304181,
+      "dailyStreams": 1310016,
       "spotifyId": "5RKQ5NdjSh2QzD4MaunT91",
       "creditsSource": "wikipedia"
     },
@@ -999,8 +999,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "There's Nothing Holdin' Me Back",
       "artist": "Shawn Mendes",
       "features": [],
-      "streams": 3025182531,
-      "dailyStreams": 1346929,
+      "streams": 3026563111,
+      "dailyStreams": 1380580,
       "spotifyId": "3bBknFVxhFjBIFX91HcneQ",
       "creditsSource": "wikipedia"
     },
@@ -1011,8 +1011,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Flowers",
       "artist": "Miley Cyrus",
       "features": [],
-      "streams": 3007843806,
-      "dailyStreams": 879297,
+      "streams": 3008717177,
+      "dailyStreams": 873371,
       "spotifyId": "7DSAEUvxU8FajXtRloy8M0",
       "creditsSource": "wikipedia"
     },
@@ -1020,24 +1020,24 @@ window.SPOTIFY_TOP128_DATA = {
       "id": "kw-081",
       "rank": 81,
       "seed": 80,
-      "title": "HUMBLE.",
-      "artist": "Kendrick Lamar",
+      "title": "End of Beginning",
+      "artist": "Djo",
       "features": [],
-      "streams": 3005802819,
-      "dailyStreams": 539043,
-      "spotifyId": "7KXjTSCq5nL1LoYtL7XAwS",
+      "streams": 3006674722,
+      "dailyStreams": 2297124,
+      "spotifyId": "3qhlB30KknSejmIvZZLjOD",
       "creditsSource": "wikipedia"
     },
     {
       "id": "kw-082",
       "rank": 82,
       "seed": 81,
-      "title": "End of Beginning",
-      "artist": "Djo",
+      "title": "HUMBLE.",
+      "artist": "Kendrick Lamar",
       "features": [],
-      "streams": 3004377598,
-      "dailyStreams": 2262673,
-      "spotifyId": "3qhlB30KknSejmIvZZLjOD",
+      "streams": 3006366860,
+      "dailyStreams": 564041,
+      "spotifyId": "7KXjTSCq5nL1LoYtL7XAwS",
       "creditsSource": "wikipedia"
     },
     {
@@ -1047,8 +1047,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "bad guy",
       "artist": "Billie Eilish",
       "features": [],
-      "streams": 2989777659,
-      "dailyStreams": 453496,
+      "streams": 2990244332,
+      "dailyStreams": 466673,
       "spotifyId": "2Fxmhks0bxGSBdJ92vM42m",
       "creditsSource": "wikipedia"
     },
@@ -1059,8 +1059,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Dreams",
       "artist": "Fleetwood Mac",
       "features": [],
-      "streams": 2985076516,
-      "dailyStreams": 1527987,
+      "streams": 2986606552,
+      "dailyStreams": 1530036,
       "spotifyId": "1lbXEepatjRVjoG8pZMtdp",
       "creditsSource": "wikipedia"
     },
@@ -1071,8 +1071,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "drivers license",
       "artist": "Olivia Rodrigo",
       "features": [],
-      "streams": 2980713031,
-      "dailyStreams": 1069291,
+      "streams": 2981795782,
+      "dailyStreams": 1082751,
       "spotifyId": "5wANPM4fQCJwkGd4rN57mH",
       "creditsSource": "wikipedia"
     },
@@ -1083,8 +1083,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Take on Me",
       "artist": "a-ha",
       "features": [],
-      "streams": 2960763065,
-      "dailyStreams": 1296068,
+      "streams": 2962067137,
+      "dailyStreams": 1304072,
       "spotifyId": "3vSamvYCxvaBCV8YPkWIkN",
       "creditsSource": "wikipedia"
     },
@@ -1095,8 +1095,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Numb",
       "artist": "Linkin Park",
       "features": [],
-      "streams": 2952043842,
-      "dailyStreams": 1398462,
+      "streams": 2953476372,
+      "dailyStreams": 1432530,
       "spotifyId": "1y1sChqjzdNWzwdHQADMrR",
       "creditsSource": "wikipedia"
     },
@@ -1107,8 +1107,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "7 rings",
       "artist": "Ariana Grande",
       "features": [],
-      "streams": 2947402132,
-      "dailyStreams": 784848,
+      "streams": 2948204781,
+      "dailyStreams": 802649,
       "spotifyId": "6ocbgoVGwYJhOv1GgI9NsF",
       "creditsSource": "wikipedia"
     },
@@ -1119,8 +1119,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Sweet Child O' Mine",
       "artist": "Guns N' Roses",
       "features": [],
-      "streams": 2921891975,
-      "dailyStreams": 1353896,
+      "streams": 2923271233,
+      "dailyStreams": 1379258,
       "spotifyId": "7snQQk1zcKl8gZ92AnueZW",
       "creditsSource": "wikipedia"
     },
@@ -1131,8 +1131,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Let Her Go",
       "artist": "Passenger",
       "features": [],
-      "streams": 2919377286,
-      "dailyStreams": 630847,
+      "streams": 2920711767,
+      "dailyStreams": 667669,
       "spotifyId": "4bzBPrGYD3fQfAadLgIiwT",
       "creditsSource": "wikipedia"
     },
@@ -1143,8 +1143,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Kill Bill",
       "artist": "SZA",
       "features": [],
-      "streams": 2916435562,
-      "dailyStreams": 892538,
+      "streams": 2917342705,
+      "dailyStreams": 907143,
       "spotifyId": "4zozL5lnFIG0P5ZZ7l2NcR",
       "creditsSource": "wikipedia"
     },
@@ -1157,8 +1157,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "Wiz Khalifa"
       ],
-      "streams": 2902874487,
-      "dailyStreams": 1579681,
+      "streams": 2904513289,
+      "dailyStreams": 1638802,
       "spotifyId": "1XGmzt0PVuFgQYYnV2It7A",
       "creditsSource": "wikipedia"
     },
@@ -1172,8 +1172,8 @@ window.SPOTIFY_TOP128_DATA = {
         "JENNIE",
         "Lily-Rose Depp"
       ],
-      "streams": 2896488137,
-      "dailyStreams": 2273689,
+      "streams": 2898754862,
+      "dailyStreams": 2270207,
       "spotifyId": "7CyPwkp0oE8Ro9Dd5CUDjW",
       "creditsSource": "wikipedia"
     },
@@ -1184,8 +1184,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Save Your Tears",
       "artist": "The Weeknd",
       "features": [],
-      "streams": 2870430598,
-      "dailyStreams": 1073566,
+      "streams": 2871534616,
+      "dailyStreams": 1104018,
       "spotifyId": "6HcH1QtJDLSr2MK9ePUDL1",
       "creditsSource": "wikipedia"
     },
@@ -1199,8 +1199,8 @@ window.SPOTIFY_TOP128_DATA = {
         "Dua Lipa",
         "PNAU"
       ],
-      "streams": 2835651345,
-      "dailyStreams": 767292,
+      "streams": 2836405176,
+      "dailyStreams": 753831,
       "spotifyId": "7rglLriMNBPAyuJOMGwi39",
       "creditsSource": "wikipedia"
     },
@@ -1214,8 +1214,8 @@ window.SPOTIFY_TOP128_DATA = {
         "MØ",
         "DJ Snake"
       ],
-      "streams": 2827235415,
-      "dailyStreams": 865495,
+      "streams": 2828114870,
+      "dailyStreams": 879455,
       "spotifyId": "7LHhNWdKxgg3yxBhfF1Onq",
       "creditsSource": "wikipedia"
     },
@@ -1228,8 +1228,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "Bruno Mars"
       ],
-      "streams": 2817084007,
-      "dailyStreams": 1034152,
+      "streams": 2818159389,
+      "dailyStreams": 1075382,
       "spotifyId": "32OlwWuMpZ6b0aN2RZOeMS",
       "creditsSource": "wikipedia"
     },
@@ -1242,8 +1242,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "Dua Lipa"
       ],
-      "streams": 2809682265,
-      "dailyStreams": 709740,
+      "streams": 2810435844,
+      "dailyStreams": 753579,
       "spotifyId": "76dIZzTdrNO15mGBrU3MHi",
       "creditsSource": "wikipedia"
     },
@@ -1256,8 +1256,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "Lucenzo"
       ],
-      "streams": 2801000601,
-      "dailyStreams": 1251287,
+      "streams": 2802255535,
+      "dailyStreams": 1254934,
       "spotifyId": "3Jp89TtkR1IJAWQE5UDKuk",
       "creditsSource": "wikipedia"
     },
@@ -1268,8 +1268,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Don't Stop Me Now",
       "artist": "Queen",
       "features": [],
-      "streams": 2795365789,
-      "dailyStreams": 946469,
+      "streams": 2796318275,
+      "dailyStreams": 952486,
       "spotifyId": "5T8EDUDqKcs6OSOwEsfqG7",
       "creditsSource": "wikipedia"
     },
@@ -1280,8 +1280,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Africa",
       "artist": "TOTO",
       "features": [],
-      "streams": 2792943961,
-      "dailyStreams": 1041932,
+      "streams": 2793991077,
+      "dailyStreams": 1047116,
       "spotifyId": "2374M0fQpWi3dLnB54qaLX",
       "creditsSource": "wikipedia"
     },
@@ -1294,8 +1294,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "Selena Gomez"
       ],
-      "streams": 2781302221,
-      "dailyStreams": 1241326,
+      "streams": 2782577765,
+      "dailyStreams": 1275544,
       "spotifyId": "54PbBpquVfhfrwRwvjSXbI",
       "creditsSource": "official-credits"
     },
@@ -1306,8 +1306,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Night Changes",
       "artist": "One Direction",
       "features": [],
-      "streams": 2753490980,
-      "dailyStreams": 1144469,
+      "streams": 2754652182,
+      "dailyStreams": 1161202,
       "spotifyId": "5O2P9iiztwhomNh8xkR9lJ",
       "creditsSource": "official-credits"
     },
@@ -1320,8 +1320,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "Bad Bunny"
       ],
-      "streams": 2747120859,
-      "dailyStreams": 978872,
+      "streams": 2748208586,
+      "dailyStreams": 1087727,
       "spotifyId": "0fea68AdmYNygeTGI4RC18",
       "creditsSource": "official-credits"
     },
@@ -1332,8 +1332,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Somewhere Only We Know",
       "artist": "Keane",
       "features": [],
-      "streams": 2744869917,
-      "dailyStreams": 1270744,
+      "streams": 2746176307,
+      "dailyStreams": 1306390,
       "spotifyId": "1SKPmfSYaPsETbRHaiA18G",
       "creditsSource": "official-credits"
     },
@@ -1344,8 +1344,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "good 4 u",
       "artist": "Olivia Rodrigo",
       "features": [],
-      "streams": 2737638315,
-      "dailyStreams": 568218,
+      "streams": 2738225259,
+      "dailyStreams": 586944,
       "spotifyId": "4ZtFanR9U6ndgddUvNcjcG",
       "creditsSource": "official-credits"
     },
@@ -1356,8 +1356,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Everybody Wants To Rule The World",
       "artist": "Tears For Fears",
       "features": [],
-      "streams": 2733448783,
-      "dailyStreams": 1243135,
+      "streams": 2734698153,
+      "dailyStreams": 1249370,
       "spotifyId": "2GOGDZ9wAJbmznIstAxiU4",
       "creditsSource": "official-credits"
     },
@@ -1368,8 +1368,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Someone Like You",
       "artist": "Adele",
       "features": [],
-      "streams": 2729494022,
-      "dailyStreams": 854779,
+      "streams": 2730354016,
+      "dailyStreams": 859994,
       "spotifyId": "1zwMYTA5nlNjZxYrvBB2pV",
       "creditsSource": "official-credits"
     },
@@ -1382,8 +1382,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "Wyclef Jean"
       ],
-      "streams": 2727586127,
-      "dailyStreams": 1336856,
+      "streams": 2728890254,
+      "dailyStreams": 1304127,
       "spotifyId": "4NPA29e6xdKSLQuhkOe2iA",
       "creditsSource": "official-credits"
     },
@@ -1396,8 +1396,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "Bastille"
       ],
-      "streams": 2711326213,
-      "dailyStreams": 650927,
+      "streams": 2711989631,
+      "dailyStreams": 663418,
       "spotifyId": "7BqHUALzNBTanL6OvsqmC1",
       "creditsSource": "official-credits"
     },
@@ -1410,8 +1410,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "Rihanna"
       ],
-      "streams": 2706308155,
-      "dailyStreams": 1290121,
+      "streams": 2707687716,
+      "dailyStreams": 1379561,
       "spotifyId": "0385HqYimoTQaHZP17KwG1",
       "creditsSource": "official-credits"
     },
@@ -1422,8 +1422,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Levitating",
       "artist": "Dua Lipa",
       "features": [],
-      "streams": 2692733189,
-      "dailyStreams": 650349,
+      "streams": 2693418198,
+      "dailyStreams": 685009,
       "spotifyId": "49gruEYzuJZoy4R2q5xVlT",
       "creditsSource": "official-credits"
     },
@@ -1434,8 +1434,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Lose Control",
       "artist": "Teddy Swims",
       "features": [],
-      "streams": 2689092401,
-      "dailyStreams": 1396631,
+      "streams": 2690486958,
+      "dailyStreams": 1394557,
       "spotifyId": "17phhZDn6oGtzMe56NuWvj",
       "creditsSource": "official-credits"
     },
@@ -1448,8 +1448,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "Drake"
       ],
-      "streams": 2683101797,
-      "dailyStreams": 654239,
+      "streams": 2683770091,
+      "dailyStreams": 668294,
       "spotifyId": "1YfBk0pJhG9JHV5Ni60IDZ",
       "creditsSource": "official-credits"
     },
@@ -1462,8 +1462,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "L.V."
       ],
-      "streams": 2677009942,
-      "dailyStreams": 1021705,
+      "streams": 2678058037,
+      "dailyStreams": 1048095,
       "spotifyId": "3iXI6ZaNBoL2dNv9K7LBh3",
       "creditsSource": "official-credits"
     },
@@ -1476,8 +1476,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "Bruno Mars"
       ],
-      "streams": 2669271709,
-      "dailyStreams": 1222681,
+      "streams": 2670502432,
+      "dailyStreams": 1230723,
       "spotifyId": "4wJ5Qq0jBN4ajy7ouZIV1c",
       "creditsSource": "official-credits"
     },
@@ -1488,8 +1488,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Attention",
       "artist": "Charlie Puth",
       "features": [],
-      "streams": 2655960181,
-      "dailyStreams": 1141573,
+      "streams": 2657179840,
+      "dailyStreams": 1219659,
       "spotifyId": "5cF0dROlMOK5uNZtivgu50",
       "creditsSource": "official-credits"
     },
@@ -1500,8 +1500,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Stitches",
       "artist": "Shawn Mendes",
       "features": [],
-      "streams": 2651899530,
-      "dailyStreams": 1030928,
+      "streams": 2652934126,
+      "dailyStreams": 1034596,
       "spotifyId": "4dLMVmmQC74C4p3AWdwhff",
       "creditsSource": "official-credits"
     },
@@ -1512,8 +1512,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "New Rules",
       "artist": "Dua Lipa",
       "features": [],
-      "streams": 2649956485,
-      "dailyStreams": 590542,
+      "streams": 2650577409,
+      "dailyStreams": 620924,
       "spotifyId": "2xJCMIJfcNYDc5iR0sAm2O",
       "creditsSource": "official-credits"
     },
@@ -1524,8 +1524,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Lush Life",
       "artist": "Zara Larsson",
       "features": [],
-      "streams": 2648527452,
-      "dailyStreams": 1500587,
+      "streams": 2650022921,
+      "dailyStreams": 1495469,
       "spotifyId": "1rIKgCH4H52lrvDcz50hS8",
       "creditsSource": "official-credits"
     },
@@ -1536,8 +1536,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Me Rehúso",
       "artist": "Danny Ocean",
       "features": [],
-      "streams": 2645163970,
-      "dailyStreams": 1218594,
+      "streams": 2646399271,
+      "dailyStreams": 1235301,
       "spotifyId": "6ifUES3keWjwXgae8pXI3o",
       "creditsSource": "official-credits"
     },
@@ -1548,8 +1548,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "The Less I Know The Better",
       "artist": "Tame Impala",
       "features": [],
-      "streams": 2642876941,
-      "dailyStreams": 1256262,
+      "streams": 2644150654,
+      "dailyStreams": 1273713,
       "spotifyId": "6K4t31amVTZDgR3sKmwUJJ",
       "creditsSource": "official-credits"
     },
@@ -1560,8 +1560,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "7 Years",
       "artist": "Lukas Graham",
       "features": [],
-      "streams": 2641410872,
-      "dailyStreams": 854324,
+      "streams": 2642262328,
+      "dailyStreams": 851456,
       "spotifyId": "0VQjTLPG8l3egUHmIxe265",
       "creditsSource": "official-credits"
     },
@@ -1572,8 +1572,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Blank Space",
       "artist": "Taylor Swift",
       "features": [],
-      "streams": 2634024748,
-      "dailyStreams": 1081947,
+      "streams": 2635130116,
+      "dailyStreams": 1105368,
       "spotifyId": "1p80LdxRV74UKvL8gnD7ky",
       "creditsSource": "official-credits"
     },
@@ -1584,8 +1584,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "Pumped Up Kicks",
       "artist": "Foster The People",
       "features": [],
-      "streams": 2629940834,
-      "dailyStreams": 960412,
+      "streams": 2630898911,
+      "dailyStreams": 958077,
       "spotifyId": "7w87IxuO7BDcJ3YUqCyMTT",
       "creditsSource": "official-credits"
     },
@@ -1598,8 +1598,8 @@ window.SPOTIFY_TOP128_DATA = {
       "features": [
         "Kimbra"
       ],
-      "streams": 2627259915,
-      "dailyStreams": 1064817,
+      "streams": 2628333685,
+      "dailyStreams": 1073770,
       "spotifyId": "4wCmqSrbyCgxEXROQE6vtV",
       "creditsSource": "official-credits"
     },
@@ -1610,8 +1610,8 @@ window.SPOTIFY_TOP128_DATA = {
       "title": "I'm Not The Only One",
       "artist": "Sam Smith",
       "features": [],
-      "streams": 2623066405,
-      "dailyStreams": 872040,
+      "streams": 2623944432,
+      "dailyStreams": 878027,
       "spotifyId": "7795WJLVKJoAyVoOtCWqXN",
       "creditsSource": "official-credits"
     },
@@ -1619,25 +1619,25 @@ window.SPOTIFY_TOP128_DATA = {
       "id": "kw-128",
       "rank": 128,
       "seed": 127,
-      "title": "Mockingbird",
-      "artist": "Eminem",
+      "title": "Apocalypse",
+      "artist": "Cigarettes After Sex",
       "features": [],
-      "streams": 2622180342,
-      "dailyStreams": 869206,
-      "spotifyId": "561jH07mF1jHuk7KlaeF0s",
-      "creditsSource": "official-credits"
+      "streams": 2623665874,
+      "dailyStreams": 1570130,
+      "spotifyId": "2N66X8ltrzANr0o6rfwIRi",
+      "creditsSource": "kworb-main-artist"
     },
     {
       "id": "kw-129",
       "rank": 129,
       "seed": 128,
-      "title": "Apocalypse",
-      "artist": "Cigarettes After Sex",
+      "title": "Mockingbird",
+      "artist": "Eminem",
       "features": [],
-      "streams": 2622095744,
-      "dailyStreams": 1551035,
-      "spotifyId": "2N66X8ltrzANr0o6rfwIRi",
-      "creditsSource": "kworb-main-artist"
+      "streams": 2623052722,
+      "dailyStreams": 872380,
+      "spotifyId": "561jH07mF1jHuk7KlaeF0s",
+      "creditsSource": "official-credits"
     }
   ]
 };
