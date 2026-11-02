@@ -43,7 +43,7 @@ README.md               este arquivo
 | Item | Valor |
 |---|---|
 | Fonte do ranking | Kworb — *Spotify Most Streamed Songs of All Time* (`https://kworb.net/spotify/songs.html`) |
-| Data de referência | **01/11/2026** (página consultada nesta data; o Kworb atualiza diariamente) |
+| Data de referência | **02/11/2026** (página consultada nesta data; o Kworb atualiza diariamente) |
 | Conferência | Wikipedia — *List of Spotify streaming records*, tabela do top 100 atualizada em 19/09/2026 |
 | O que é medido | Streams acumulados de cada faixa no Spotify, desde o lançamento |
 
@@ -75,138 +75,138 @@ O player funciona abrindo o `index.html` direto ou num servidor local, desde que
 ## As 128 músicas
 
 <!-- tabela:inicio (gerada por tools/atualizar-dados.mjs) -->
-`Cab.` é a cabeça de chave. `Kworb` é a posição original no ranking do Kworb em 01/11/2026.
+`Cab.` é a cabeça de chave. `Kworb` é a posição original no ranking do Kworb em 02/11/2026.
 
 | Cab. | Kworb | Música | Artista(s) | Streams |
 |---:|---:|---|---|---:|
-| 1 | 1 | Blinding Lights | The Weeknd | 5.659.652.654 |
-| 2 | 2 | Shape of You | Ed Sheeran | 5.166.969.543 |
-| 3 | 3 | Sweater Weather | The Neighbourhood | 4.996.630.528 |
-| 4 | 4 | Starboy | The Weeknd com Daft Punk | 4.841.886.853 |
-| 5 | 5 | As It Was | Harry Styles | 4.695.435.933 |
-| 6 | 6 | One Dance | Drake com Wizkid, Kyla | 4.543.956.419 |
-| 7 | 7 | Sunflower | Post Malone com Swae Lee | 4.538.002.498 |
-| 8 | 8 | Someone You Loved | Lewis Capaldi | 4.485.089.869 |
-| 9 | 9 | Perfect | Ed Sheeran | 4.168.445.008 |
-| 10 | 10 | STAY | The Kid LAROI com Justin Bieber | 4.123.175.113 |
-| 11 | 11 | Die With A Smile | Lady Gaga com Bruno Mars | 4.109.539.832 |
-| 12 | 12 | I Wanna Be Yours | Arctic Monkeys | 4.085.523.888 |
-| 13 | 13 | BIRDS OF A FEATHER | Billie Eilish | 4.077.816.211 |
-| 14 | 14 | Yellow | Coldplay | 4.065.647.590 |
-| 15 | 15 | The Night We Met | Lord Huron | 4.014.396.270 |
-| 16 | 16 | Believer | Imagine Dragons | 4.003.376.774 |
-| 17 | 17 | Riptide | Vance Joy | 3.989.928.677 |
-| 18 | 18 | Heat Waves | Glass Animals | 3.981.430.560 |
-| 19 | 19 | Closer | The Chainsmokers com Halsey | 3.940.717.341 |
-| 20 | 20 | lovely | Billie Eilish com Khalid | 3.924.049.754 |
-| 21 | 21 | Every Breath You Take | The Police | 3.849.311.232 |
-| 22 | 22 | Iris | The Goo Goo Dolls | 3.830.308.398 |
-| 23 | 23 | Something Just Like This | The Chainsmokers com Coldplay | 3.823.251.119 |
-| 24 | 24 | Another Love | Tom Odell | 3.755.172.305 |
-| 25 | 25 | Say You Won't Let Go | James Arthur | 3.732.297.188 |
-| 26 | 26 | Counting Stars | OneRepublic | 3.709.003.003 |
-| 27 | 27 | Take Me To Church | Hozier | 3.637.640.219 |
-| 28 | 28 | Photograph | Ed Sheeran | 3.600.700.122 |
-| 29 | 29 | Viva La Vida | Coldplay | 3.590.555.706 |
-| 30 | 30 | Locked out of Heaven | Bruno Mars | 3.584.428.448 |
-| 31 | 31 | Can't Hold Us | Macklemore & Ryan Lewis com Ray Dalton | 3.576.261.941 |
-| 32 | 32 | Mr. Brightside | The Killers | 3.571.638.399 |
-| 33 | 33 | Just the Way You Are | Bruno Mars | 3.546.696.436 |
-| 34 | 34 | Dance Monkey | Tones And I | 3.538.185.639 |
-| 35 | 35 | Cruel Summer | Taylor Swift | 3.525.633.811 |
-| 36 | 36 | Die For You | The Weeknd | 3.483.726.080 |
-| 37 | 37 | rockstar | Post Malone com 21 Savage | 3.478.933.863 |
-| 38 | 38 | Señorita | Shawn Mendes com Camila Cabello | 3.460.170.388 |
-| 39 | 39 | That's What I Like | Bruno Mars | 3.457.636.780 |
-| 40 | 40 | In the End | Linkin Park | 3.443.480.729 |
-| 41 | 41 | Watermelon Sugar | Harry Styles | 3.431.715.899 |
-| 42 | 42 | Love Yourself | Justin Bieber | 3.410.499.990 |
-| 43 | 43 | Don’t Start Now | Dua Lipa | 3.355.938.973 |
-| 44 | 44 | When I Was Your Man | Bruno Mars | 3.349.591.831 |
-| 45 | 45 | Billie Jean | Michael Jackson | 3.345.318.851 |
-| 46 | 46 | Circles | Post Malone | 3.325.034.190 |
-| 47 | 47 | Bohemian Rhapsody | Queen | 3.318.807.640 |
-| 48 | 48 | Without Me | Eminem | 3.284.002.431 |
-| 49 | 49 | Let Me Love You | DJ Snake com Justin Bieber | 3.281.933.740 |
-| 50 | 50 | Wake Me Up | Avicii | 3.276.450.470 |
-| 51 | 51 | goosebumps | Travis Scott com Kendrick Lamar | 3.259.885.376 |
-| 52 | 52 | Thinking out Loud | Ed Sheeran | 3.258.351.464 |
-| 53 | 53 | Espresso | Sabrina Carpenter | 3.238.020.738 |
-| 54 | 54 | All The Stars | Kendrick Lamar com SZA | 3.234.482.610 |
-| 55 | 55 | All Of Me | John Legend | 3.231.527.712 |
-| 56 | 56 | Lucid Dreams | Juice WRLD | 3.231.365.259 |
-| 57 | 57 | Beautiful Things | Benson Boone | 3.229.911.590 |
-| 58 | 58 | Treat You Better | Shawn Mendes | 3.227.929.225 |
-| 59 | 59 | Creep | Radiohead | 3.224.164.746 |
-| 60 | 60 | God's Plan | Drake | 3.218.434.669 |
-| 61 | 61 | Stressed Out | Twenty One Pilots | 3.218.075.618 |
-| 62 | 62 | Shallow | Lady Gaga com Bradley Cooper | 3.204.067.600 |
-| 63 | 63 | The Hills | The Weeknd | 3.203.073.243 |
-| 64 | 64 | Do I Wanna Know? | Arctic Monkeys | 3.199.071.967 |
-| 65 | 65 | Demons | Imagine Dragons | 3.184.186.349 |
-| 66 | 66 | See You Again | Tyler, The Creator com Kali Uchis | 3.176.879.856 |
-| 67 | 67 | Wonderwall | Oasis | 3.171.503.948 |
-| 68 | 68 | Smells Like Teen Spirit | Nirvana | 3.156.165.262 |
-| 69 | 69 | Thunder | Imagine Dragons | 3.145.143.313 |
-| 70 | 70 | Seven | Jung Kook com Latto | 3.133.318.051 |
-| 71 | 71 | Unforgettable | French Montana com Swae Lee | 3.127.808.968 |
-| 72 | 72 | Sorry | Justin Bieber | 3.124.733.847 |
-| 73 | 73 | 505 | Arctic Monkeys | 3.110.667.698 |
-| 74 | 75 | No Role Modelz | J. Cole | 3.085.101.139 |
-| 75 | 76 | Lose Yourself | Eminem | 3.062.793.021 |
-| 76 | 77 | The Scientist | Coldplay | 3.052.301.777 |
-| 77 | 78 | Don't Stop Believin' | Journey | 3.051.733.580 |
-| 78 | 79 | There's Nothing Holdin' Me Back | Shawn Mendes | 3.048.266.682 |
-| 79 | 80 | End of Beginning | Djo | 3.041.504.167 |
-| 80 | 81 | Flowers | Miley Cyrus | 3.021.903.473 |
-| 81 | 82 | HUMBLE. | Kendrick Lamar | 3.014.839.217 |
-| 82 | 83 | Dreams | Fleetwood Mac | 3.009.732.431 |
-| 83 | 84 | bad guy | Billie Eilish | 2.998.345.968 |
-| 84 | 85 | drivers license | Olivia Rodrigo | 2.998.298.107 |
-| 85 | 86 | Take on Me | a-ha | 2.982.146.367 |
-| 86 | 87 | Numb | Linkin Park | 2.975.597.461 |
-| 87 | 88 | 7 rings | Ariana Grande | 2.961.239.552 |
-| 88 | 89 | Sweet Child O' Mine | Guns N' Roses | 2.945.136.239 |
-| 89 | 90 | One Of The Girls | The Weeknd com JENNIE, Lily-Rose Depp | 2.933.035.166 |
-| 90 | 91 | Let Her Go | Passenger | 2.931.513.540 |
-| 91 | 92 | Kill Bill | SZA | 2.931.403.782 |
-| 92 | 93 | Payphone | Maroon 5 com Wiz Khalifa | 2.928.268.156 |
-| 93 | 94 | Save Your Tears | The Weeknd | 2.887.856.643 |
-| 94 | 95 | Cold Heart | Elton John com Dua Lipa, PNAU | 2.847.718.604 |
-| 95 | 96 | Lean On | Major Lazer com MØ, DJ Snake | 2.840.931.393 |
-| 96 | 97 | Uptown Funk | Mark Ronson com Bruno Mars | 2.834.219.970 |
-| 97 | 98 | Danza Kuduro | Don Omar com Lucenzo | 2.823.545.291 |
-| 98 | 99 | One Kiss | Calvin Harris com Dua Lipa | 2.822.824.405 |
-| 99 | 100 | Africa | TOTO | 2.812.415.317 |
-| 100 | 101 | Don't Stop Me Now | Queen | 2.810.760.335 |
-| 101 | 102 | We Don't Talk Anymore | Charlie Puth com Selena Gomez | 2.801.068.536 |
-| 102 | 103 | Night Changes | One Direction | 2.773.082.728 |
-| 103 | 104 | Somewhere Only We Know | Keane | 2.768.863.286 |
-| 104 | 105 | LA CANCIÓN | J Balvin com Bad Bunny | 2.764.282.167 |
-| 105 | 106 | Everybody Wants To Rule The World | Tears For Fears | 2.756.437.494 |
-| 106 | 107 | Hips Don't Lie | Shakira com Wyclef Jean | 2.749.101.341 |
-| 107 | 108 | good 4 u | Olivia Rodrigo | 2.747.959.478 |
-| 108 | 109 | Someone Like You | Adele | 2.744.689.112 |
-| 109 | 110 | We Found Love | Calvin Harris com Rihanna | 2.728.898.929 |
-| 110 | 111 | Happier | Marshmello com Bastille | 2.723.212.599 |
-| 111 | 112 | Lose Control | Teddy Swims | 2.711.022.596 |
-| 112 | 113 | Levitating | Dua Lipa | 2.704.032.343 |
-| 113 | 114 | SICKO MODE | Travis Scott com Drake | 2.695.272.841 |
-| 114 | 115 | Gangsta's Paradise | Coolio com L.V. | 2.694.871.718 |
-| 115 | 116 | APT. | ROSÉ com Bruno Mars | 2.691.748.443 |
-| 116 | 117 | Attention | Charlie Puth | 2.674.332.902 |
-| 117 | 118 | Lush Life | Zara Larsson | 2.673.313.417 |
-| 118 | 119 | Stitches | Shawn Mendes | 2.669.583.189 |
-| 119 | 120 | Me Rehúso | Danny Ocean | 2.665.059.532 |
-| 120 | 121 | The Less I Know The Better | Tame Impala | 2.664.183.568 |
-| 121 | 122 | New Rules | Dua Lipa | 2.659.986.422 |
-| 122 | 123 | Blank Space | Taylor Swift | 2.655.208.995 |
-| 123 | 124 | 7 Years | Lukas Graham | 2.655.139.026 |
-| 124 | 125 | Apocalypse | Cigarettes After Sex | 2.648.812.879 |
-| 125 | 126 | Pumped Up Kicks | Foster The People | 2.645.386.169 |
-| 126 | 127 | Somebody That I Used To Know | Gotye com Kimbra | 2.645.344.991 |
-| 127 | 128 | I'm Not The Only One | Sam Smith | 2.637.263.394 |
-| 128 | 129 | Mockingbird | Eminem | 2.637.118.417 |
+| 1 | 1 | Blinding Lights | The Weeknd | 5.662.235.308 |
+| 2 | 2 | Shape of You | Ed Sheeran | 5.168.446.879 |
+| 3 | 3 | Sweater Weather | The Neighbourhood | 4.999.095.711 |
+| 4 | 4 | Starboy | The Weeknd com Daft Punk | 4.843.795.123 |
+| 5 | 5 | As It Was | Harry Styles | 4.696.902.362 |
+| 6 | 6 | One Dance | Drake com Wizkid, Kyla | 4.545.607.598 |
+| 7 | 7 | Sunflower | Post Malone com Swae Lee | 4.539.556.679 |
+| 8 | 8 | Someone You Loved | Lewis Capaldi | 4.485.998.067 |
+| 9 | 9 | Perfect | Ed Sheeran | 4.169.640.075 |
+| 10 | 10 | STAY | The Kid LAROI com Justin Bieber | 4.124.149.204 |
+| 11 | 11 | Die With A Smile | Lady Gaga com Bruno Mars | 4.112.222.116 |
+| 12 | 12 | I Wanna Be Yours | Arctic Monkeys | 4.087.316.185 |
+| 13 | 13 | BIRDS OF A FEATHER | Billie Eilish | 4.079.825.641 |
+| 14 | 14 | Yellow | Coldplay | 4.067.377.325 |
+| 15 | 15 | The Night We Met | Lord Huron | 4.015.983.192 |
+| 16 | 16 | Believer | Imagine Dragons | 4.004.400.221 |
+| 17 | 17 | Riptide | Vance Joy | 3.991.504.072 |
+| 18 | 18 | Heat Waves | Glass Animals | 3.982.456.103 |
+| 19 | 19 | Closer | The Chainsmokers com Halsey | 3.942.093.693 |
+| 20 | 20 | lovely | Billie Eilish com Khalid | 3.924.984.890 |
+| 21 | 21 | Every Breath You Take | The Police | 3.851.318.684 |
+| 22 | 22 | Iris | The Goo Goo Dolls | 3.832.958.099 |
+| 23 | 23 | Something Just Like This | The Chainsmokers com Coldplay | 3.824.255.440 |
+| 24 | 24 | Another Love | Tom Odell | 3.756.387.075 |
+| 25 | 25 | Say You Won't Let Go | James Arthur | 3.732.963.848 |
+| 26 | 26 | Counting Stars | OneRepublic | 3.710.398.212 |
+| 27 | 27 | Take Me To Church | Hozier | 3.638.576.401 |
+| 28 | 28 | Photograph | Ed Sheeran | 3.601.782.330 |
+| 29 | 29 | Viva La Vida | Coldplay | 3.592.057.604 |
+| 30 | 30 | Locked out of Heaven | Bruno Mars | 3.586.126.376 |
+| 31 | 31 | Can't Hold Us | Macklemore & Ryan Lewis com Ray Dalton | 3.577.783.809 |
+| 32 | 32 | Mr. Brightside | The Killers | 3.573.902.075 |
+| 33 | 33 | Just The Way You Are | Bruno Mars | 3.548.198.823 |
+| 34 | 34 | Dance Monkey | Tones And I | 3.538.755.936 |
+| 35 | 35 | Cruel Summer | Taylor Swift | 3.526.537.269 |
+| 36 | 36 | Die For You | The Weeknd | 3.485.423.015 |
+| 37 | 37 | rockstar | Post Malone com 21 Savage | 3.479.455.735 |
+| 38 | 38 | Señorita | Shawn Mendes com Camila Cabello | 3.461.023.656 |
+| 39 | 39 | That's What I Like | Bruno Mars | 3.458.944.900 |
+| 40 | 40 | In the End | Linkin Park | 3.445.047.384 |
+| 41 | 41 | Watermelon Sugar | Harry Styles | 3.432.459.205 |
+| 42 | 42 | Love Yourself | Justin Bieber | 3.411.500.643 |
+| 43 | 43 | Don’t Start Now | Dua Lipa | 3.356.705.582 |
+| 44 | 44 | When I Was Your Man | Bruno Mars | 3.350.729.366 |
+| 45 | 45 | Billie Jean | Michael Jackson | 3.348.304.322 |
+| 46 | 46 | Circles | Post Malone | 3.325.978.786 |
+| 47 | 47 | Bohemian Rhapsody | Queen | 3.319.853.301 |
+| 48 | 48 | Without Me | Eminem | 3.285.135.898 |
+| 49 | 49 | Let Me Love You | DJ Snake com Justin Bieber | 3.283.248.027 |
+| 50 | 50 | Wake Me Up | Avicii | 3.277.364.002 |
+| 51 | 51 | goosebumps | Travis Scott com Kendrick Lamar | 3.260.631.092 |
+| 52 | 52 | Thinking out Loud | Ed Sheeran | 3.259.231.567 |
+| 53 | 53 | Espresso | Sabrina Carpenter | 3.239.285.557 |
+| 54 | 54 | All The Stars | Kendrick Lamar com SZA | 3.235.759.536 |
+| 55 | 55 | All Of Me | John Legend | 3.232.400.873 |
+| 56 | 56 | Lucid Dreams | Juice WRLD | 3.231.948.420 |
+| 57 | 57 | Beautiful Things | Benson Boone | 3.231.483.229 |
+| 58 | 58 | Treat You Better | Shawn Mendes | 3.230.037.471 |
+| 59 | 59 | Creep | Radiohead | 3.226.400.378 |
+| 60 | 60 | God's Plan | Drake | 3.219.405.622 |
+| 61 | 61 | Stressed Out | Twenty One Pilots | 3.219.113.430 |
+| 62 | 62 | Shallow | Lady Gaga com Bradley Cooper | 3.204.769.123 |
+| 63 | 63 | The Hills | The Weeknd | 3.204.101.213 |
+| 64 | 64 | Do I Wanna Know? | Arctic Monkeys | 3.200.587.509 |
+| 65 | 65 | Demons | Imagine Dragons | 3.185.120.078 |
+| 66 | 66 | See You Again | Tyler, The Creator com Kali Uchis | 3.178.212.688 |
+| 67 | 67 | Wonderwall | Oasis | 3.173.555.134 |
+| 68 | 68 | Smells Like Teen Spirit | Nirvana | 3.157.598.145 |
+| 69 | 69 | Thunder | Imagine Dragons | 3.145.888.952 |
+| 70 | 70 | Seven | Jung Kook com Latto | 3.134.218.556 |
+| 71 | 71 | Unforgettable | French Montana com Swae Lee | 3.129.106.820 |
+| 72 | 72 | Sorry | Justin Bieber | 3.125.869.642 |
+| 73 | 73 | 505 | Arctic Monkeys | 3.112.283.158 |
+| 74 | 75 | No Role Modelz | J. Cole | 3.086.084.552 |
+| 75 | 76 | Lose Yourself | Eminem | 3.063.689.062 |
+| 76 | 77 | The Scientist | Coldplay | 3.053.436.213 |
+| 77 | 78 | Don't Stop Believin' | Journey | 3.053.343.063 |
+| 78 | 79 | There's Nothing Holdin' Me Back | Shawn Mendes | 3.049.558.438 |
+| 79 | 80 | End of Beginning | Djo | 3.043.893.219 |
+| 80 | 81 | Flowers | Miley Cyrus | 3.022.800.823 |
+| 81 | 82 | HUMBLE. | Kendrick Lamar | 3.015.378.456 |
+| 82 | 83 | Dreams | Fleetwood Mac | 3.011.185.789 |
+| 83 | 84 | bad guy | Billie Eilish | 2.999.622.002 |
+| 84 | 85 | drivers license | Olivia Rodrigo | 2.999.254.135 |
+| 85 | 86 | Take on Me | a-ha | 2.983.576.117 |
+| 86 | 87 | Numb | Linkin Park | 2.976.966.178 |
+| 87 | 88 | 7 rings | Ariana Grande | 2.962.100.798 |
+| 88 | 89 | Sweet Child O' Mine | Guns N' Roses | 2.946.580.196 |
+| 89 | 90 | One Of The Girls | The Weeknd com JENNIE, Lily-Rose Depp | 2.935.208.970 |
+| 90 | 91 | Kill Bill | SZA | 2.932.616.164 |
+| 91 | 92 | Let Her Go | Passenger | 2.932.107.234 |
+| 92 | 93 | Payphone | Maroon 5 com Wiz Khalifa | 2.929.854.464 |
+| 93 | 94 | Save Your Tears | The Weeknd | 2.888.835.836 |
+| 94 | 95 | Cold Heart | Elton John com Dua Lipa, PNAU | 2.848.427.472 |
+| 95 | 96 | Lean On | Major Lazer com MØ, DJ Snake | 2.841.773.595 |
+| 96 | 97 | Uptown Funk | Mark Ronson com Bruno Mars | 2.835.283.043 |
+| 97 | 98 | Danza Kuduro | Don Omar com Lucenzo | 2.825.114.081 |
+| 98 | 99 | One Kiss | Calvin Harris com Dua Lipa | 2.823.626.406 |
+| 99 | 100 | Africa | TOTO | 2.813.631.903 |
+| 100 | 101 | Don't Stop Me Now | Queen | 2.811.746.890 |
+| 101 | 102 | We Don't Talk Anymore | Charlie Puth com Selena Gomez | 2.802.207.122 |
+| 102 | 103 | Night Changes | One Direction | 2.774.132.911 |
+| 103 | 104 | Somewhere Only We Know | Keane | 2.770.102.250 |
+| 104 | 105 | LA CANCIÓN | J Balvin com Bad Bunny | 2.765.368.369 |
+| 105 | 106 | Everybody Wants To Rule The World | Tears For Fears | 2.757.884.454 |
+| 106 | 107 | Hips Don't Lie | Shakira com Wyclef Jean | 2.750.762.179 |
+| 107 | 108 | good 4 u | Olivia Rodrigo | 2.748.533.661 |
+| 108 | 109 | Someone Like You | Adele | 2.745.564.636 |
+| 109 | 110 | We Found Love | Calvin Harris com Rihanna | 2.730.351.163 |
+| 110 | 111 | Happier | Marshmello com Bastille | 2.723.942.360 |
+| 111 | 112 | Lose Control | Teddy Swims | 2.712.277.076 |
+| 112 | 113 | Levitating | Dua Lipa | 2.704.679.852 |
+| 113 | 114 | Gangsta's Paradise | Coolio com L.V. | 2.695.936.847 |
+| 114 | 115 | SICKO MODE | Travis Scott com Drake | 2.695.905.256 |
+| 115 | 116 | APT. | ROSÉ com Bruno Mars | 2.693.316.233 |
+| 116 | 117 | Attention | Charlie Puth | 2.675.322.024 |
+| 117 | 118 | Lush Life | Zara Larsson | 2.674.919.796 |
+| 118 | 119 | Stitches | Shawn Mendes | 2.670.558.385 |
+| 119 | 120 | Me Rehúso | Danny Ocean | 2.666.444.801 |
+| 120 | 121 | The Less I Know The Better | Tame Impala | 2.665.348.166 |
+| 121 | 122 | New Rules | Dua Lipa | 2.660.614.552 |
+| 122 | 123 | Blank Space | Taylor Swift | 2.656.435.013 |
+| 123 | 124 | 7 Years | Lukas Graham | 2.655.897.955 |
+| 124 | 125 | Apocalypse | Cigarettes After Sex | 2.650.174.756 |
+| 125 | 126 | Somebody That I Used To Know | Gotye com Kimbra | 2.646.336.572 |
+| 126 | 127 | Pumped Up Kicks | Foster The People | 2.646.262.410 |
+| 127 | 128 | I'm Not The Only One | Sam Smith | 2.638.115.748 |
+| 128 | 129 | Mockingbird | Eminem | 2.637.924.330 |
 
 <!-- tabela:fim -->
 
